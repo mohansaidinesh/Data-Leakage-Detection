@@ -7,3 +7,7 @@ The study proposes a complex system that uses machine-learning algorithms, rule-
 ### ARCHITECTURE
 ![image](https://github.com/mohansaidinesh/Data-Leakage-Detection/assets/85325733/078d9372-b175-4318-8ef3-39eb73c9428e)
 
+### RESULTS
+
+![image](https://github.com/mohansaidinesh/Data-Leakage-Detection/assets/85325733/d1630384-914f-42a9-9801-24373f9f8b8a)
+

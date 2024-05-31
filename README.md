@@ -13,3 +13,5 @@ The study proposes a complex system that uses machine-learning algorithms, rule-
 
 ![image](https://github.com/mohansaidinesh/Data-Leakage-Detection/assets/85325733/3648a44a-01aa-44db-8bc1-974677061fda)
 
+![image](https://github.com/mohansaidinesh/Data-Leakage-Detection/assets/85325733/284a9576-9c76-4acc-a44e-f635ac701ded)
+

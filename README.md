@@ -15,3 +15,10 @@ The study proposes a complex system that uses machine-learning algorithms, rule-
 
 ![image](https://github.com/mohansaidinesh/Data-Leakage-Detection/assets/85325733/284a9576-9c76-4acc-a44e-f635ac701ded)
 
+### REFERENCES
+
+1.	Elia, Gianluca, et al. "Digital society incubator: Combining exponential technology and human potential to build resilient entrepreneurial ecosystems." Administrative Sciences 11.3 (2021): 96.
+2.	Cheng, Long, Fang Liu, and Danfeng Yao. "Enterprise data breach: causes, challenges, prevention, and future directions." Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 7.5 (2017): e1211.
+3.	Solove, Daniel J. "Identity theft, privacy, and the architecture of vulnerability." Hastings Lj 54 (2002): 1227.
+4.	Neto, Nelson Novaes, et al. "Developing a global data breach database and the challenges encountered." Journal of Data and Information Quality (JDIQ) 13.1 (2021): 1-33.
+5.	Park, Grace. "The changing wind of data privacy law: A comparative study of the European Union's General Data Protection Regulation and the 2018 California Consumer Privacy Act." UC Irvine L. Rev. 10 (2019): 1455.
